@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\lesson\\Lesson8\\Lesson8.csproj": {}
+    "D:\\lesson\\lesson8\\Lesson8.csproj": {}
   },
   "projects": {
-    "D:\\lesson\\Lesson8\\Lesson8.csproj": {
+    "D:\\lesson\\lesson8\\Lesson8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\lesson\\Lesson8\\Lesson8.csproj",
+        "projectUniqueName": "D:\\lesson\\lesson8\\Lesson8.csproj",
         "projectName": "Lesson8",
-        "projectPath": "D:\\lesson\\Lesson8\\Lesson8.csproj",
+        "projectPath": "D:\\lesson\\lesson8\\Lesson8.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\lesson\\Lesson8\\obj\\",
+        "outputPath": "D:\\lesson\\lesson8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
